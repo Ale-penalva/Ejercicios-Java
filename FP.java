@@ -4,6 +4,12 @@ import java.util.Scanner;
 public class FP {
 
 	public static void main(String[] args) {
+
+
+*/Desenvolupar un programa en Java que:
+Permeta als usuaris calcular l'àrea i el perímetre de tres formes geomètriques: cercle, rectangle i triangle.
+Proporcione resultats precisos amb dos decimals
+Funcione de la mateixa manera per a tots els ciutadans de TechVille. Per això, el format d'eixida ha de ser consistent en tots els casos.*/
 		
 		double radio;
 		
